@@ -18,5 +18,6 @@
 	<classpathentry kind="src" path="11day"/>
 	<classpathentry kind="src" path="12day_Generic"/>
 	<classpathentry kind="src" path="12day_Collection"/>
+	<classpathentry kind="src" path="13day_HashSet"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

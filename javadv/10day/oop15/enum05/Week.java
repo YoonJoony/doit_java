@@ -1,0 +1,5 @@
+package oop15.enum05;
+
+public enum Week {
+	MONDAY, TUESDAT, WHENSDAY, THIRSDAY, FRIDAY, SATURDAY, SUNDAY
+}
